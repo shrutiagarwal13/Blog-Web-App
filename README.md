@@ -10,4 +10,7 @@ Blog Website built using NodeJS and MongoDB
 ## Start & Watch
 
     $ node app.js
+   Run `http://localhost:3000/` on your browser.
+
+
 
