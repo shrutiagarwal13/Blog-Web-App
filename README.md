@@ -3,11 +3,11 @@ Blog Website built using NodeJS and MongoDB
 
 ## Install
 
-  $ git clone https://github.com/shruti1302/Blog-Web-App.git
-  $ cd Blog-Web-App
-  $ npm install
+    $ git clone https://github.com/shruti1302/Blog-Web-App.git
+    $ cd Blog-Web-App
+    $ npm install
 
 ## Start & Watch
 
-  $ node app.js
+    $ node app.js
 
